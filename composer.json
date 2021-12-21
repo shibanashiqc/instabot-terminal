@@ -1,0 +1,16 @@
+{
+    "name": "shiban/instabot",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shiban\\Instabot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shiban Ashiq",
+            "email": "shibanashiq743@gmail.com"
+        }
+    ],
+    "require": {}
+}
